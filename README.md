@@ -26,15 +26,12 @@ Here are some references that I've used 👇<br>
 
 » I started with a small challenge called **30 Days of CSS**. More about this challenge can be found [here](https://github.com/MilenaCarecho/30diasDeCSS)
 <br>
-* Day 01: Splash Image Mask
+* [Day 01: Splash Image Mask](https://github.com/requaresma/CSS-Mini-Projects/blob/master/README.md#day-01---splash-image-mask)
 <hr>
 
 # Day 01 - Splash Image Mask
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/>
 [Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
 <br>
-**🤓 What I learned:**
-* more about **Positions**
-* **::before Selector**
-* **mix-blend-mode Property**
+
 ---
