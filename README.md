@@ -25,3 +25,6 @@ Here are some references that I've used 👇<br>
 <hr>
 
 » I started with a small challenge called **30 Days of CSS**. More about this challenge can be found [here](https://github.com/MilenaCarecho/30diasDeCSS)
+<br>
+* Day 01: Splash Image Mask
+<hr>
