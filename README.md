@@ -31,9 +31,9 @@ Here are some references that I've used 👇<br>
 
 # Day 01 - Splash Image Mask
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/>
-[👀 Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
+👀 [code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
 <br>
-<b> 🤓 What I learned:</b>
+<b> 🤓 What I learned:</b> <br>
 * more about **Positions** <br>
 * <b> ::before Selector</b> <br>
   * <b>mix-blend-mode Property</b>
