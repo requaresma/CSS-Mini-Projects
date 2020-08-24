@@ -29,8 +29,8 @@ Here are some references that I've used 👇<br>
 * Day 01: Splash Image Mask
 <hr>
 # Day 01 - Splash Image Mask
-<img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/css-cover.png" width="100%"/>
-**[</> Code]()**
+<img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="100%"/>
+<b>[</> Code](")</b>
 **🤓 What I learned:**
 * more about **Positions**
 * **::before Selector**
