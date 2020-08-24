@@ -1,4 +1,4 @@
-<img src="https://github.com/requaresma/Learning-Journey/blob/master/cover.png" width="100%"/>
+<img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/cover-css.png" width="100%"/>
 
 <p align="center">
   <b> CSS </b><br>
