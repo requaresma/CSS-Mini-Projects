@@ -28,3 +28,11 @@ Here are some references that I've used 👇<br>
 <br>
 * Day 01: Splash Image Mask
 <hr>
+# Day 01 - Splash Image Mask
+<img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/css-cover.png" width="100%"/>
+**[</> Code]()**
+**🤓 What I learned:**
+* more about **Positions**
+* **::before Selector**
+* **mix-blend-mode Property**
+---
