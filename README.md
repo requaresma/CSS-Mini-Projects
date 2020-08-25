@@ -5,7 +5,7 @@
   Mini Projects </a> | 
   <a href="https://github.com/requaresma">Renata Quaresma</a>
   <br><br>
-  <img src="https://img.shields.io/badge/Status-Pre--launch 🚀-orange">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-blue">
   </p>
   
 
@@ -33,7 +33,7 @@ Here are some references that I've used 👇<br>
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/> <br>
 ---
 
-🖥 [Source code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
+:octocat: [Source code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
 <br> <br>
 <b> 🤓 What I learned:</b> <br>
 - more about *Positions* <br>
