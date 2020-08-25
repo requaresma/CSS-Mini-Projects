@@ -32,8 +32,9 @@ Here are some references that I've used 👇<br>
 # Day 01 - Splash Image Mask
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/> <br>
 ---
-🖥 [code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
-<br>
+
+🖥 [Source code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
+<br> <br>
 <b> 🤓 What I learned:</b> <br>
 - more about *Positions* <br>
 - *::before Selector* <br>
