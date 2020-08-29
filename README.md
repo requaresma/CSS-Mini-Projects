@@ -33,18 +33,10 @@ Here are some references that I've used 👇<br>
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/> <br>
 ---
 
-:octocat: »[code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)
-<br> <br>
-<b> 🤓 What I learned:</b> <br>
-- more about *Positions* <br>
-- *::before Selector* <br>
-- *mix-blend-mode Property*
-<br>
 
 :octocat: Code |🤓 What I learned|🗒 Notes |
 ---------------|-----------------|----------
-[View Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)|- *Positions* <br> - *::before Selector* <br> - *mix-blend-mode Property* |Blog Post
-
+[View Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)| Positions <br> ::before Selector <br> mix-blend-mode Property |Notes
 
 
 
