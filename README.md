@@ -41,5 +41,16 @@ Here are some references that I've used 👇<br>
 - *mix-blend-mode Property*
 <br>
 
+:octocat: Code |🤓 What I learned|Notes |
+---------------|-----------------|----------
+[View Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)|*Positions* <br>
+- *::before Selector* <br>
+- *mix-blend-mode Property*|Blog Post
+
+
+
+
+
+
 ---
 # Day 02 - 
