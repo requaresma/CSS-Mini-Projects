@@ -32,11 +32,12 @@ Here are some references that I've used 👇<br>
 # Day 01 - Splash Image Mask
 <img src="https://github.com/requaresma/CSS-Mini-Projects/blob/master/Challenge/Day%2301/result.jpg" width="75%"/> <br>
 ---
-
+<br>
+<br>
 
 :octocat: Code |🤓 What I learned|🗒 Notes |
 ---------------|-----------------|----------
-[View Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)| Positions <br> ::before Selector <br> mix-blend-mode Property |Notes
+[View Code](https://github.com/requaresma/CSS-Mini-Projects/tree/master/Challenge/Day%2301)| ▶ Positions <br> ▶ ::before Selector <br> ▶ mix-blend-mode Property |Notes
 
 
 
